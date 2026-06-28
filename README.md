@@ -20,8 +20,8 @@ I am a motivated **Software & AI Development Engineer** with a B.Sc. in Computer
 | **Languages** | Python, C#, TypeScript, SQL |
 | **AI & Data Science** | Generative AI, RAG Architectures, Vektor Databases, Data Analysis (Pandas/NumPy), Jupyter Notebooks |
 | **Frameworks & Web** | ASP.NET Core, Angular, API Development, OOP |
-| **Databases** | Relational Databases (SQL), Neo4j, Vector DBs |
-| **DevOps & Tools** | Git, Docker, MCP, CI/CD, Java APIs (COMSOL/Mathematica automation) |
+| **Databases** | Relational Databases (SQL), Graph Databases (Neo4j), Vector Databases (Qdrant, ChromaDB) |
+| **DevOps & Tools** | Git, Docker, MCP, CI/CD |
 
 ---
 
